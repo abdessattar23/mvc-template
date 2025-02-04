@@ -1,1 +1,2 @@
 Set up project structure with Model, View, and Controller directories
+Add base Model class with database connection logic
