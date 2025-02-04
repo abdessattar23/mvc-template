@@ -50,6 +50,7 @@ random_date() {
 # Loop through the commit messages and make changes
 for msg in "${commit_messages[@]}"; do
     commit_date=$(random_date)  # Generate a random date for each commit
+    echo "$msg" >> changes.log  # Append message to a log file to simulate work
     git add .
     GIT_COMMITTER_DATE="$commit_date" git commit -m "$msg" --date "$commit_date"
     sleep 1  # Add a small delay to simulate real work
