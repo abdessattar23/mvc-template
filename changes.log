@@ -11,3 +11,4 @@ Implement a login and registration system
 Enhance routing to support dynamic parameters
 Improve error handling with custom exception classes
 Add basic CSS styling for default views
+Create a middleware system for request filtering
