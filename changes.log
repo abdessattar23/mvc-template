@@ -4,3 +4,4 @@ Implement generic Controller class to handle requests
 Create basic routing mechanism for MVC architecture
 Set up configuration file for database and app settings
 Develop a simple User model with authentication methods
+Implement a default view template with dynamic content rendering
