@@ -17,3 +17,4 @@ Develop a user dashboard with session-based authentication
 Optimize database queries in the Model class
 Implement CSRF protection in form submissions
 Improve MVC project documentation in README
+Finalize initial MVC project template for release
