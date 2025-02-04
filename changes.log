@@ -7,3 +7,4 @@ Develop a simple User model with authentication methods
 Implement a default view template with dynamic content rendering
 Add session management for user authentication
 Integrate a simple ORM for database operations
+Implement a login and registration system
